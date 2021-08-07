@@ -1,1 +1,3 @@
-adventure.txt
+Socrates
+Joan of Arc
+Abraham Lincoln
